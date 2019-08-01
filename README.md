@@ -15,3 +15,18 @@ A idéia dessa aplicação é replicar o comportamento do Piperfy.
 # Demo1
 
 ![Demo 01.](./demo/demo01.png "demo01")
+
+## Para usar
+
+Instalar dependências
+```sh
+yarn
+```
+Rodar o projeto
+```sh
+yarn start
+```
+URL
+```sh
+http://localhost:3000/
+```
